@@ -97,6 +97,8 @@ class DoctorMenu {
   DoctorMenu({this.name = '', this.image = ''});
 }
 
+ 
+
 var doctorMenu = [
   DoctorMenu(name: 'Consultation', image: 'img-consultation.svg'),
   DoctorMenu(name: 'Dental', image: 'img-dental.svg'),
